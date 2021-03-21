@@ -23,7 +23,8 @@
 
 ## Contributors
 
-- **Batu Cam** -- Transcribed recipe from Mark Rippetoe's video with moderate to
+- Batu Cam -- Transcribed recipe from Mark Rippetoe's video with moderate to
   significant modifications based on experience.
-- **Mark Rippetoe** -- Original recipe author,
-  [Website](https://startingstrength.com)
+- Mark Rippetoe -- Original recipe author, [Website](https://startingstrength.com)
+
+;tags: side potato mash
