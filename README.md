@@ -81,7 +81,5 @@ It will be kept in sync (both ways) with based.cooking as much as possible.
 
 This repository and all its content is in the public domain.
 By submitting text or images or anything else to this repository,
-you waive any pretense of ownership to it,
-although you are welcome and recommended to give yourself credit
-at the bottom of a submitted page for you adding it
-(including personal or donation links).
+you waive any pretense of ownership to it. You can give yourself credit by
+putting your name and optionally your website in the `Contribution` section.
