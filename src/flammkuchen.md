@@ -24,7 +24,9 @@ A recipe for Flammkuchen, a very thin crust pizza-like dish, from Elsass.
    The thin parts will get a bit brown.
 6. Put salt and pepper.
 
-It's recommended to take it down from the baking tray and let it cool down for
+## Notes
+
+- It's recommended to take it down from the baking tray and let it cool down for
 2-5 minutes before eating.
 
 ## Contributors
