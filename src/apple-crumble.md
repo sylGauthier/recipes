@@ -39,4 +39,4 @@ A classic delicious apple crumble
 
 - Sylvain Gauthier.
 
-;tags: desert cake
+;tags: dessert cake
